@@ -24,7 +24,8 @@
 # 技术要求统一
 ## java
 - 使用jdk1.8版本
-- 框架使用springboot+springweb
+- 框架使用springboot+springweb(版本暂定2.7.8)
 - 使用lombok插件
 - 使用log4j2记录日志、即引入spring-boot-starter-log4j2
 - 使用okhttp作为http客户端
+- 使用jackson作为json处理工具
