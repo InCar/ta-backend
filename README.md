@@ -29,3 +29,4 @@
 - 使用log4j2记录日志、即引入spring-boot-starter-log4j2
 - 使用okhttp作为http客户端
 - 使用jackson作为json处理工具
+- 所有http请求必须返回json格式、例子{code:0,message:"",data:{}}
